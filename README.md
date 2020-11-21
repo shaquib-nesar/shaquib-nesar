@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+### I've been working as a professional Back-end Engineer since 2016.
+  
+
+### 🌱 I’m currently learning ...
+- Microsoft Azure
+- Cloud
+
+### 💬 Ask me about ...
+- Java
+- MongoDB
+- SQL
+- Data Structure and Algorithm
+
+### 📫 Reach me:
+- nesar.shaquib@gmail.com
+- https://www.linkedin.com/in/abi-shaquib-nesar-596b60118/
 <!--
 **shaquib-nesar/shaquib-nesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
